@@ -8,5 +8,5 @@
 ```
 
 ## Reference
-#### [Youtube link](https://keithito.com/LJ-Speech-Dataset/)
+#### [Youtube link](https://www.youtube.com/watch?v=pTZVoqBUjvI&t=1113s)
 #### [Github](https://github.com/dappuniversity/starter_kit)
