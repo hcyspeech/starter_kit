@@ -9,4 +9,4 @@
 
 ## Reference
 #### [Youtube link](https://keithito.com/LJ-Speech-Dataset/)
-#### [Github] (https://github.com/dappuniversity/starter_kit)
+#### [Github](https://github.com/dappuniversity/starter_kit)
